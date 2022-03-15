@@ -73,6 +73,7 @@ section {
   background-size: cover;
   background-position: center;
   position: relative;
+  
 }
 .hero-form button {
   color: #fce138;
@@ -237,3 +238,25 @@ section {
 }
 
 /* REACH OUT STYLES END */
+.start-building-habits {
+  
+  width: 50%;
+  
+  
+  
+  
+}
+.start-building-habits h3 { 
+  font-weight: bold;
+  font-size: 46px;
+  color: #fce138;
+  margin: 0;
+  font-style: italic;
+  float: right;
+  
+}
+.start-building-habits p {
+  float: right;
+  color: white;
+  text-align: right;
+}
