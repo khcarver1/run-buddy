@@ -1,4 +1,3 @@
-TEST LOCAL
 # Run Buddy, Inc
 
 ## Purpose
